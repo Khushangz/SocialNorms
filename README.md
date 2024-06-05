@@ -4,7 +4,7 @@
 This project explores the variations in social norms between Bollywood and Hollywood by analyzing the self-conscious emotions of shame and pride within movie subtitles. Using a dataset comprising over 5,400 movie subtitles, this repository hosts methodologies and results of extracting and analyzing over 10,000 social norms to demonstrate cultural nuances in cinematic expressions. 
 
 ## Repository Contents
-- `Webscrapping_code_Bollywood.ipynb`: Python notebook for scraping Bollywood movie subtitles .
+- `Code.ipynb`: Python notebook for scraping Bollywood movie subtitles .
 - `Bollywood_Movies.zip/`:Directory containing the Bollywood dataset of extracted subtitles.
 - `Hollywood_movies.zip/`:Directory containing the Hollywood dataset.
 
