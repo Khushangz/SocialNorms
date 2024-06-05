@@ -1,32 +1,17 @@
-# Cross-Cultural Analysis of Social Norms in Movies
+# Cross-Cultural Analysis of Social Norms in Bollywood and Hollywood Movies
 
-## Project Overview
-This research aims to explore the expression of social norms concerning pride and shame across Bollywood and Hollywood movies. By analyzing subtitles scraped from a broad range of films, this project investigates how different cultures interpret these self-conscious emotions and their associated social norms.
+## Project Description
+This project explores the variations in social norms between Bollywood and Hollywood by analyzing the self-conscious emotions of shame and pride within movie subtitles. Using a dataset comprising over 5,400 movie subtitles, this repository hosts methodologies and results of extracting and analyzing over 10,000 social norms to demonstrate cultural nuances in cinematic expressions. 
 
-## Data Collection
-### Subtitle Scraping
-Implemented in Python using BeautifulSoup and Selenium for dynamic content interaction.
-### Cleaning and Standardization
-Removal of timestamps, null lines, and dialogues not contributing to context.
-### Dialogue Combination
-Dialogues split by ellipses were merged to maintain the integrity of conversational context.
+## Repository Contents
+- `Webscrapping_code_Bollywood.ipynb`: Python notebook for scraping Bollywood movie subtitles .
+- `Bollywood_Movies.zip/`:Directory containing the Bollywood dataset of extracted subtitles.
+- `Hollywood_movies.zip/`:Directory containing the Hollywood dataset.
 
-## Methodology
-### Data Processing
-Details the steps taken to prepare the data for analysis.
-### Analysis Techniques
-#### Context Windows
-For each mention of "pride" or "shame," adjacent dialogues were extracted to form a context window.
-#### LDA Topic Modeling
-Employed to categorize dialogues into thematic clusters.
-#### Sentiment Analysis
-Utilized Luke and Transformers to perform deeper linguistic and sentiment analysis.
-#### Norm Extraction with LLMs
-Large language models were prompted to identify and generate the social norms depicted in the dialogues.
+##Methodology
+Data Collection: Automated scraping of English subtitles for Bollywood and Hollywood movies released post-1990.
+Data Preprocessing: Extract dialogues containing the words 'shame' and 'pride' and their contexts.
+Analysis: Utilization of NLP techniques to analyze the frequency and context of self-conscious emotions across cultures. Includes detailed statistical analysis and LIWC (Linguistic Inquiry and Word Count) for psycho-social category correlation.
 
-## Results
-The analysis highlighted distinct cultural differences, with specific examples from Bollywood and Hollywood.
-
-## Visualizations
-Graphical representations such as word clouds and bar graphs are shown.
-
+##Results
+The analysis reveals distinct cultural expressions of shame and pride, with Bollywood emphasizing familial honor and societal roles, while Hollywood focuses more on individual achievements and ethical behavior. Visualizations and detailed findings are available in the Results/ directory.
