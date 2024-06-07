@@ -8,10 +8,10 @@ This project explores the variations in social norms between Bollywood and Holly
 - `Bollywood_Movies.zip/`:Directory containing the Bollywood dataset of extracted subtitles.
 - `Hollywood_movies.zip/`:Directory containing the Hollywood dataset.
 
-##Methodology
+## Methodology
 Data Collection: Automated scraping of English subtitles for Bollywood and Hollywood movies released post-1990.
 Data Preprocessing: Extract dialogues containing the words 'shame' and 'pride' and their contexts.
 Analysis: Utilization of NLP techniques to analyze the frequency and context of self-conscious emotions across cultures. Includes detailed statistical analysis and LIWC (Linguistic Inquiry and Word Count) for psycho-social category correlation.
 
-##Results
+## Results
 The analysis reveals distinct cultural expressions of shame and pride, with Bollywood emphasizing familial honor and societal roles, while Hollywood focuses more on individual achievements and ethical behavior. Visualizations and detailed findings are available in the Results/ directory.
