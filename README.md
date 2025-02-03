@@ -37,7 +37,6 @@ This project investigates **cross-cultural variations in social norms** by analy
 The analysis demonstrates **cultural distinctions** in self-conscious emotions:  
 - **Bollywood** emphasizes **familial honor and societal roles**.  
 - **Hollywood** focuses on **individual achievements and ethical behavior**.  
-- **Visualization and detailed results** are in the `Results/` directory.  
 
 ## **License**  
 This dataset and code are released under the **Apache License 2.0**. See the [`LICENSE`](LICENSE) file for details.
