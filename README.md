@@ -19,7 +19,7 @@ This project investigates **cross-cultural variations in social norms** by analy
 
 ## **Methodology**  
 ### **1. Data Collection**  
-- **Automated web scraping** of **Bollywood and Hollywood** movies (post-1990) using **Python (BeautifulSoup, Requests, OS)**.  
+- **Automated web scraping** of **Bollywood movies (post-1990) using **Python (BeautifulSoup, Requests, OS)**.  
 - Extraction of **subtitles** to capture dialogues containing the words **shame** and **pride**.  
 
 ### **2. Data Processing**  
