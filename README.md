@@ -44,7 +44,7 @@ The analysis demonstrates **cultural distinctions** in self-conscious emotions:
   author    = {Sunny Rai and Khushang Zaveri and Shreya Havaldar and Soumna Nema and Lyle Ungar and Sharath Chandra Guntuku},
   booktitle = {The 2025 Annual Conference of the Nations of the Americas Chapter of the ACL},
   year      = {2025},
-  url       = {https://openreview.net/forum?id=NLX2ynQhOZ}
+  url       = {https://arxiv.org/pdf/2402.11333}
 }
 ```
 
