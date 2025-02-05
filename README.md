@@ -4,16 +4,15 @@
 Shame and pride are social emotions expressed across cultures to motivate and regulate people's thoughts, feelings, and behaviors. In this paper, we introduce the first cross-cultural dataset of over shame/pride-related expressions, with underlying social expectations from **5.4K** Bollywood and Hollywood movies. We examine how and why {shame and pride} are expressed across cultures using a blend of psychology-informed language analysis combined with large language models.
 
 ## **Repository Contents**  
-- `Code.ipynb` – Python notebook for **scraping and processing** Bollywood and Hollywood subtitles.  
-- `Input/` – Processed dataset containing **movie dialogues** with emotion-based context windows.  
+- `Input_Files/` – Processed dataset containing **movie dialogues** with emotion-based context windows.  
   - **Example (Input File)**:  
     ```
     Movie_id: WP0_holly | Movie_name: Big Hero 6 | Message: Aunt Cass? - FRED: Unless it's moldy. We'll, uh... We'll catch up, okay? Sure, I'm so proud of you. Both of you. BOTH: Thanks, Aunt Cass.
     ```  
-- `Output/` – Extracted structured data on **who experiences emotions** and **why**.  
+- `Output_Files/` – Extracted structured data on **who experiences emotions** and **why**.  
   - **Example (Output File)**:  
     ```
-    Message_id: s2_bolly | Shame_who: speaker | Gender: female | Cause: expressing love for a man
+    Message_id: s2_bolly | Person Who Felt The Emotion: speaker | Gender: female | Cause: expressing love for a man
     ```  
 - `Results/` – Statistical analysis, visualizations, and insights into **cultural differences** in self-conscious emotions.  
 
