@@ -1,4 +1,4 @@
-# **Cross-Cultural Analysis of Social Norms in Bollywood and Hollywood Movies**
+# **Social Norms in Cinema: A Cross-Cultural Analysis of Shame, Pride and Prejudice**
 
 ## **Project Description**  
 This project investigates **cross-cultural variations in social norms** by analyzing the self-conscious emotions of **shame and pride** in **Bollywood and Hollywood** movies. By leveraging **5,435 movie subtitles**, we extracted **10,000+ social norms**, offering insights into how these emotions manifest across different cultures.
