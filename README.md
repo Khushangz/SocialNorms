@@ -35,7 +35,18 @@ Shame and pride are social emotions expressed across cultures to motivate and re
 ## **Results & Findings**  
 The analysis demonstrates **cultural distinctions** in self-conscious emotions:  
 - **Bollywood** emphasizes **familial honor and societal roles**.  
-- **Hollywood** focuses on **individual achievements and ethical behavior**.  
+- **Hollywood** focuses on **individual achievements and ethical behavior**.
+  
+### **BibTeX Citation**
+```bibtex
+@inproceedings{SocialNorms2025,
+  title     = {Social Norms in Cinema: A Cross-Cultural Analysis of Shame, Pride and Prejudice},
+  author    = {Sunny Rai and Khushang Zaveri and Shreya Havaldar and Soumna Nema and Lyle Ungar and Sharath Chandra Guntuku},
+  booktitle = {The 2025 Annual Conference of the Nations of the Americas Chapter of the ACL},
+  year      = {2025},
+  url       = {https://openreview.net/forum?id=NLX2ynQhOZ}
+}
+```
 
 ## **License**  
 This dataset and code are released under the **Apache License 2.0**. See the [`LICENSE`](LICENSE) file for details.
