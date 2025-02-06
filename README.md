@@ -50,5 +50,5 @@ The analysis demonstrates **cultural distinctions** in self-conscious emotions:
 
 ## License  
 This dataset is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**.  
-See the full license in the [`LICENSE`](LICENSE.md) file or visit [Creative Commons License](https://creativecommons.org/licenses/by-sa/4.0/).
+See the full license in the [`LICENSE`](LICENSE) file or visit [Creative Commons License](https://creativecommons.org/licenses/by-sa/4.0/).
 
